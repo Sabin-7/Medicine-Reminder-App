@@ -1,0 +1,18 @@
+(Medicine Reminder App)
+
+1.Login Page
+User logs into the app (email & password).
+
+2.Dashboard Page
+Shows today’s medicines and next reminder.
+
+3.Manage Medicine Page
+Add, edit, and delete medicines.
+
+4.Schedule Page
+Mark medicines as Taken or Missed.
+
+5.Profile & History Page
+Shows user info and medicine statistics.
+
+
